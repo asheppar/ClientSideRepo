@@ -1,6 +1,6 @@
 <html>
 <title>WHats Up!<title>
 <body>
-Fuck yeaH
+Fuck yeah
 </body>
 </html>
